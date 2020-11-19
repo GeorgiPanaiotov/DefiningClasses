@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\DefiningClass\CarManufacturerExtended\bin\Debug\netcoreapp3.1\CarManufacturerExtended.exe
+C:\Users\ThinkPad\source\repos\DefiningClass\CarManufacturerExtended\bin\Debug\netcoreapp3.1\CarManufacturerExtended.deps.json
+C:\Users\ThinkPad\source\repos\DefiningClass\CarManufacturerExtended\bin\Debug\netcoreapp3.1\CarManufacturerExtended.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\DefiningClass\CarManufacturerExtended\bin\Debug\netcoreapp3.1\CarManufacturerExtended.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\DefiningClass\CarManufacturerExtended\bin\Debug\netcoreapp3.1\CarManufacturerExtended.dll
+C:\Users\ThinkPad\source\repos\DefiningClass\CarManufacturerExtended\bin\Debug\netcoreapp3.1\CarManufacturerExtended.pdb
+C:\Users\ThinkPad\source\repos\DefiningClass\CarManufacturerExtended\obj\Debug\netcoreapp3.1\CarManufacturerExtended.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\DefiningClass\CarManufacturerExtended\obj\Debug\netcoreapp3.1\CarManufacturerExtended.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\DefiningClass\CarManufacturerExtended\obj\Debug\netcoreapp3.1\CarManufacturerExtended.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\DefiningClass\CarManufacturerExtended\obj\Debug\netcoreapp3.1\CarManufacturerExtended.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\DefiningClass\CarManufacturerExtended\obj\Debug\netcoreapp3.1\CarManufacturerExtended.dll
+C:\Users\ThinkPad\source\repos\DefiningClass\CarManufacturerExtended\obj\Debug\netcoreapp3.1\CarManufacturerExtended.pdb
+C:\Users\ThinkPad\source\repos\DefiningClass\CarManufacturerExtended\obj\Debug\netcoreapp3.1\CarManufacturerExtended.genruntimeconfig.cache
